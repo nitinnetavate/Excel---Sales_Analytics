@@ -8,7 +8,7 @@ Project objective:
 Finance Report :
 •	Project objective:
 1. Create Profit and Loss (P&L) reports by _[Fiscal Year]https://github.com/nitinnetavate/Excel-Sale-Analytics-/blob/main/P%26L%20STATAMENT%20BY%20FISCAL%20YEAR%20PDF.pdf
-2. Create Profit and Loss (P&L) reports by _[Markets](https://github.com/nitinnetavate/Excel-Sale-Analytics-/blob/main/P%26L%20STATEMENT%20BY%20MARKET%20PDF.pdf
+2. Create Profit and Loss (P&L) reports by _[Markets](https://github.com/nitinnetavate/Excel---Sales_Analytics/blob/main/P%20AND%20L%20STATMENT%20FOR%20MARKET.pdf
 •	**Purpose of sales analytics: **Sales analytics provide valuable data for forecasting future sales revenue and expenses. By analyzing historical sales data and market trends, finance teams can develop accurate sales forecasts and budgets, helping businesses plan and allocate resources effectively.
 •	**Importance of analyzing Finance data: ** Sales analytics provide valuable data for forecasting future sales revenue and expenses. By analyzing historical sales data and market trends, finance teams can develop accurate sales forecasts, which are essential for budgeting, financial planning, and resource allocation.
 •	**Role of reports: ** Sales analytics in a finance report facilitate cost analysis by identifying the costs associated with sales activities, such as marketing expenses, sales commissions, and operational costs. They help in understanding cost structures, identifying areas of inefficiency, and optimizing cost allocation to improve profitability.
